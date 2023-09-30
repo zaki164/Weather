@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+![React App(2)](https://github.com/zaki164/Weather/assets/92805900/abb7ee12-d882-4768-9324-a638259ae96a)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
